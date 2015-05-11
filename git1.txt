@@ -13,4 +13,6 @@ origin add command for all file test.
 
 create new branch named PD1 and commit this file to branch PD1
 
-------version 6
+create new Branch named lionB and modify
+
+------version 8
