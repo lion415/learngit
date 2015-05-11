@@ -8,4 +8,7 @@ origin file has connet to remote repo. and named git@github.com/lion415/learngit
 another new stage
 remote repo. edit this file.is it can get the lasted file in origin ??
 
-------version 5
+
+origin add command for all file test.
+
+------version 6
