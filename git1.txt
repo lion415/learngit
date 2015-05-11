@@ -1,4 +1,5 @@
 git file No.1
 modify for git1 txt
+modify for both git1 and git2 for command git reset --hard Head^
 
-------version 2
+------version 3
