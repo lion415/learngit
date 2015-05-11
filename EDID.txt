@@ -1,0 +1,187 @@
+
+//////////Displaying Monitor EDID//////////
+
+
+128 bytes EDID Data (Hex):
+
+      0   1   2   3   4   5   6   7   8   9 
+
+  0: 00  FF  FF  FF  FF  FF  FF  00  30  E4
+ 10: 02  04  00  00  00  00  00  17  01  04
+ 20: 95  1C  10  78  02  E1  D5  98  59  57
+ 30: 93  27  1F  50  54  00  00  00  01  01
+ 40: 01  01  01  01  01  01  01  01  01  01
+ 50: 01  01  01  01  1A  36  80  A0  70  38
+ 60: 1F  40  30  20  35  00  14  9C  10  00
+ 70: 00  1A  1A  36  80  A0  70  38  1F  40
+ 80: 30  20  35  00  14  9C  10  00  00  1A
+ 90: 00  00  00  FE  00  38  4A  33  4B  4A
+100: 80  31  32  35  57  46  31  0A  00  00
+110: 00  00  00  00  41  21  A4  01  00  00
+120: 00  0A  01  0A  20  20  00  CA
+
+Decoded EDID data
+
+
+     <---Header--->
+     Header:                   00 FF FF FF FF FF FF 00 
+     <-x-Header-x->
+
+     <---Vendor/Product Identification--->
+     ID Manufacturer Name:     LGD
+     ID Product Code:          1026
+     ID Serial Number:         00000000
+     Week of Manufacture:      0
+     Year of Manufacture:      2013
+     <-x-Vendor/Product Identification-x->
+
+     <---EDID Structure Version/Revision--->
+     EDID Version#:            1
+     EDID Revision#:           4
+     <-x-EDID Structure Version/Revision-x->
+
+     <---Basic Display Parameters/Features--->
+     Video i/p definition:       Digital
+     Setup:                      Blank-to-Black expected
+     Seperate Syncs. support:    No
+     Composite Sync. support:    Yes
+     Vsync. Pulse:               serration not required
+     Max Horz Image Size:        28 cm.
+     Max Vert Image Size:        16 cm.
+     Display Gamma:                      2.2
+     Display Type:                       Monochrome
+     Standard Default Color Space:       No
+     Features, Preferred Timing Mode:    In first detailed block
+     Features, GTF support:              No
+     DPMS Features, Stand-by:    No
+     DPMS Features, Suspend:     No
+     DPMS Features, Active Off:  No
+     <-x-Basic Display Parameters/Features-x->
+
+     <---Color Characteristics--->
+     Red x:              0.59668
+     Red y:              0.349609
+     Green x:            0.339844
+     Green y:            0.575195
+     Blue x:             0.155273
+     Blue y:             0.12207
+     White x:            0.313477
+     White y:            0.329102
+     <-x-Color Characteristics-x->
+
+     <---Established Timings--->
+     Established Timimgs 1:  00
+     Established Timimgs 2:  00
+     Established Timings 3:          00
+     <-x-Established Timings-x->
+
+     <---Standard Timing Identification--->
+     <-x-Standard Timing Identification-x->
+
+     <---Detailed Timing Descriptions--->
+     Detailed Timing:       1920x1080 @59Hz
+     Detailed Timing:       1920x1080 @59Hz
+     Detailed Timing:       FE (Monitor string) '8J3KJ€125WF1'
+     Detailed Timing:00 00 00 00 00 00 41 21 A4 01 00 00 00 0A 01 0A 20 20
+     <-x-Detailed Timing Descriptions-x->
+     Extension Flag:        00
+     Checksum:              CA
+
+128 bytes EDID Data (Hex):
+
+      0   1   2   3   4   5   6   7   8   9 
+
+  0: 00  FF  FF  FF  FF  FF  FF  00  22  F0
+ 10: 72  31  01  01  01  01  2E  19  01  04
+ 20: B5  46  27  78  3A  8D  15  AC  51  32
+ 30: B8  26  0B  50  54  21  08  00  D1  C0
+ 40: A9  C0  81  C0  D1  00  B3  00  95  00
+ 50: A9  40  81  80  4D  D0  00  A0  F0  70
+ 60: 3E  80  30  20  35  00  B9  88  21  00
+ 70: 00  1A  00  00  00  FD  00  18  3C  1E
+ 80: 87  3C  00  0A  20  20  20  20  20  20
+ 90: 00  00  00  FC  00  48  50  20  5A  33
+100: 32  73  0A  20  20  20  20  20  00  00
+110: 00  FF  00  34  36  35  35  34  36  34
+120: 36  35  34  0A  20  20  01  A5
+
+Decoded EDID data
+
+
+     <---Header--->
+     Header:                   00 FF FF FF FF FF FF 00 
+     <-x-Header-x->
+
+     <---Vendor/Product Identification--->
+     ID Manufacturer Name:     HWP
+     ID Product Code:          12658
+     ID Serial Number:         01010101
+     Week of Manufacture:      46
+     Year of Manufacture:      2015
+     <-x-Vendor/Product Identification-x->
+
+     <---EDID Structure Version/Revision--->
+     EDID Version#:            1
+     EDID Revision#:           4
+     <-x-EDID Structure Version/Revision-x->
+
+     <---Basic Display Parameters/Features--->
+     Video i/p definition:       Digital
+     Setup:                      Blank-to-Black expected
+     Seperate Syncs. support:    No
+     Composite Sync. support:    Yes
+     Vsync. Pulse:               serration not required
+     Max Horz Image Size:        70 cm.
+     Max Vert Image Size:        39 cm.
+     Display Gamma:                      2.2
+     Display Type:                       undefined
+     Standard Default Color Space:       No
+     Features, Preferred Timing Mode:    In first detailed block
+     Features, GTF support:              No
+     DPMS Features, Stand-by:    No
+     DPMS Features, Suspend:     No
+     DPMS Features, Active Off:  Yes
+     <-x-Basic Display Parameters/Features-x->
+
+     <---Color Characteristics--->
+     Red x:              0.673828
+     Red y:              0.316406
+     Green x:            0.198242
+     Green y:            0.719727
+     Blue x:             0.148438
+     Blue y:             4.39453e-002
+     White x:            0.313477
+     White y:            0.329102
+     <-x-Color Characteristics-x->
+
+     <---Established Timings--->
+     Established Timimgs 1:  21
+               - 640x480 @60Hz  
+               - 800x600 @60Hz  
+     Established Timimgs 2:  08
+               - 1024x768 @60Hz  
+     Established Timings 3:          00
+     <-x-Established Timings-x->
+
+     <---Standard Timing Identification--->
+     Standard Timing:           1920x1080 @60Hz
+     Standard Timing:           1600x900 @60Hz
+     Standard Timing:           1280x720 @60Hz
+     Standard Timing:           1920x1920 @60Hz
+     Standard Timing:           1680x1680 @60Hz
+     Standard Timing:           1440x1440 @60Hz
+     Standard Timing:           1600x1200 @60Hz
+     Standard Timing:           1280x1024 @60Hz
+     <-x-Standard Timing Identification-x->
+
+     <---Detailed Timing Descriptions--->
+     Detailed Timing:       3840x2160 @59Hz
+     Detailed Timing:       FD (Monitor limits)
+           Vert: 24 - 60 Hz
+           Horz: 30 - 135 KHz
+           Clk:  600 MHz
+     Detailed Timing:       FC (Monitor name) 'HP Z32s'
+     Detailed Timing:       FF (Monitor SN) '4655464654'
+     <-x-Detailed Timing Descriptions-x->
+     Extension Flag:        01
+     Checksum:              A5
