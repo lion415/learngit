@@ -5,4 +5,7 @@ modify for both git1 and git2 for command git reset --hard Head^
 a new stage
 origin file has connet to remote repo. and named git@github.com/lion415/learngit.git
 
-------version 4
+another new stage
+remote repo. edit this file.is it can get the lasted file in origin ??
+
+------version 5
