@@ -11,4 +11,6 @@ remote repo. edit this file.is it can get the lasted file in origin ??
 
 origin add command for all file test.
 
+create new branch named PD1 and commit this file to branch PD1
+
 ------version 6
